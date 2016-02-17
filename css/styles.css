@@ -1,0 +1,62 @@
+/*GLOBAL STYLES*/
+
+main {
+    width:90%;
+    margin:25px auto;
+   
+}
+
+body{
+    margin:0px;
+     background-color:#FFFFFF;
+}
+
+footer{
+   background-color:#A9A9A9; 
+   height: 300px;
+   padding:40px;
+}
+
+footer p { 
+    color:#FFFFFF;
+    text-align: center;
+    font-size:15px;
+    
+}
+
+h1{
+    
+}
+
+header{
+    background-color:#FFFFFF;
+}
+
+p{
+    
+}
+
+a{
+    
+}
+
+/*BUTTON STYLES*/
+
+.button {
+    background-color:#FF0000;
+    padding:15px; 22px;
+    border-radius:6px;
+    color:#FFFFFF;
+    text-decoration:none;
+}
+
+.button:hover {
+    background-color:#990000;
+}
+
+/*OTHER STYLES*/ 
+
+.imageCenter {
+    display:block;
+    margin:0px auto;
+}
